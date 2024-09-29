@@ -57,7 +57,7 @@
     
       display: flex;
       justify-content: space-around;
-      gap: 5vw;
+      gap: 9vw;
       }
       .nb a{
         
@@ -485,7 +485,7 @@
     
       display: flex;
       justify-content: space-around;
-      gap: 5vw;
+      gap: 9vw;
       }
       .nb a{
         
@@ -2252,7 +2252,7 @@
       
         display: none;
         justify-content: space-around;
-        gap: 5vw;
+        gap: 8vw;
         }
         .nb a{
           
